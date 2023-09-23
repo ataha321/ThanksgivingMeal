@@ -1,0 +1,17 @@
+legend{
+    font-weight: bold;
+    font-size:large;
+    color: rgb(241, 31, 31);
+    background-color: rgb(124, 24, 34);
+    border-radius: 5px;
+    
+}
+
+fieldset{
+    border-radius: 20px;
+    background-color: rgb(131, 110, 247);
+    width: fit-content;
+}
+h1 {
+color: rgb(158, 92, 16);
+}
